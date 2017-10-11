@@ -5,7 +5,7 @@ Objetivo: Familiarizarse con herramientas para manejar imágenes en python.
   1 .  Instalar Anaconda
   2 .  Crear un entorno para tener los módulos que vamos a usar:
   ```bash
-  $ conda create vision python=3.5
+  $ conda create --name vision python=3.5
   ```
   3 . Pasar al entorno:
    ```bash
